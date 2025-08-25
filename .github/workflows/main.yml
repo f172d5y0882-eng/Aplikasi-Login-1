@@ -1,5 +1,5 @@
 name: JSDoc build on GitHub repo
-
+ 
 on: [push, workflow_dispatch]
 
 jobs:
